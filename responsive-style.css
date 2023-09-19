@@ -1,0 +1,51 @@
+@media only screen and (max-width: 992px) {
+    .br-point {
+        display: none;
+    }
+
+
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .hero-text-content {
+        padding-top: 30px;
+
+    }
+
+    .hero-text-content h1 {
+        font-size: 30px;
+    }
+
+
+    .features-content h3 {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 426px) {
+    .course-section-title {
+        font-size: 26px;
+    }
+
+    .card-text {
+        font-size: 13px;
+    }
+
+    .card-content h4 {
+        font-size: 22px;
+    }
+
+    .testimonial-section-title {
+        font-size: 26px;
+    }
+
+    .footer-text {
+        font-size: 12px;
+    }
+
+    .footer-content-link li a {
+        font-size: 12px;
+    }
+}
